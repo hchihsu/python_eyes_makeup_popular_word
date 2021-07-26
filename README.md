@@ -1,4 +1,4 @@
-# popular-word
+# popular_word
 
 ###### Goal: Find popular word of eyes makeup ranking
 ###### Source: Women's magazine Allure
